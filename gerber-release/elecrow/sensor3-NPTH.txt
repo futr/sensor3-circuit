@@ -1,0 +1,15 @@
+M48
+;DRILL file {Pcbnew (2013-jul-07)-stable} date 2015年01月19日 01時00分25秒
+;FORMAT={-:-/ absolute / metric / decimal}
+FMAT,2
+METRIC,TZ
+T1C3.200
+%
+G90
+G05
+M71
+T1
+X64.Y-108.
+X81.Y-108.
+T0
+M30

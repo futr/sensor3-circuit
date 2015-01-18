@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = 2015年01月18日 19時05分59秒
+
+BeginCmp
+TimeStamp = /54B7B076;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B7B748;
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B787F8;
+Reference = C4;
+ValeurCmp = 22p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B787E9;
+Reference = C5;
+ValeurCmp = 22p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B782A6;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78A88;
+Reference = CON2;
+ValeurCmp = DM3AT-SF-PEJM5;
+IdModule  = DM3AT-SF-PEJM5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78356;
+Reference = D1;
+ValeurCmp = STATUS;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B781D3;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-A;
+IdModule  = TQFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B7A1FD;
+Reference = P1;
+ValeurCmp = POWER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BB8665;
+Reference = P2;
+ValeurCmp = RX/TX;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B7BE66;
+Reference = P3;
+ValeurCmp = I2C;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78D83;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78972;
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78989;
+Reference = R3;
+ValeurCmp = 4.7k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78D6A;
+Reference = SW1;
+ValeurCmp = START/STOP;
+IdModule  = AE-TSW;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78A79;
+Reference = SW2;
+ValeurCmp = FORMAT;
+IdModule  = AE-TSW;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78D53;
+Reference = U1;
+ValeurCmp = AE-LPS331AP;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B78A98;
+Reference = U2;
+ValeurCmp = SL-MPU9150;
+IdModule  = DIP-10__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B787D8;
+Reference = X1;
+ValeurCmp = 8MHz;
+IdModule  = HC-49V;
+EndCmp
+
+EndListe
