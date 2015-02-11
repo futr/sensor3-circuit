@@ -40,7 +40,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "sensor3"
-Date "18 jan 2015"
+Date "28 jan 2015"
 Rev "A"
 Comp ""
 Comment1 ""
@@ -529,7 +529,6 @@ Wire Wire Line
 	10700 3800 11000 3800
 Connection ~ 11000 3800
 NoConn ~ 10700 3900
-NoConn ~ 10700 4000
 NoConn ~ 10700 4100
 NoConn ~ 10700 2250
 NoConn ~ 10700 2350
@@ -801,4 +800,7 @@ Wire Wire Line
 	8600 4400 8600 4600
 Wire Wire Line
 	8600 4600 8800 4600
+Wire Wire Line
+	10700 4000 11000 4000
+Connection ~ 11000 4000
 $EndSCHEMATC
